@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- positive numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- existence of 1 in the positive set[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall {1,2,3,4}[0m[0m
+[0m[[0minfo[0m] [0m[32m- map[0m[0m
